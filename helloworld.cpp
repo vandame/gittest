@@ -2,8 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello world" << std::endl;
+    std::cout << "Hello world" << std::endl;
 	
-	// pause
-	std::cin.get(); 
+    // pause
+    std::cin.get(); 
 }
